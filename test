@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<!-- saved from url=(0029)https://mack-truck.github.io/ -->
+<html class="u-responsive-md"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="keywords" content="mack sowers">
+    <meta name="description" content="DREU project blog">
+    <meta name="page_type" content="np-template-header-footer-from-plugin">
+    <title>DREU 2021 blog</title>
+    <link rel="stylesheet" href="./DREU 2021 blog_files/nicepage.css" media="screen">
+    <script class="u-script" type="text/javascript" src="./DREU 2021 blog_files/jquery-1.9.1.min.js.download" defer=""></script>
+    <script class="u-script" type="text/javascript" src="./DREU 2021 blog_files/nicepage.js.download" defer=""></script>
+    <meta name="generator" content="Nicepage 3.7.4, nicepage.com">
+    <link id="u-theme-google-font" rel="stylesheet" href="./DREU 2021 blog_files/css">
+    <style class="u-style">.u-section-2 {
+  background-image: none;
+  min-height: 838px;
+}
+.u-section-2 .u-shape-1 {
+  height: 556px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.u-section-2 .u-layout-wrap-1 {
+  width: 1140px;
+  margin: -496px auto 60px;
+}
+.u-section-2 .u-image-1 {
+  min-height: 678px;
+  background-image: url("https://raw.githubusercontent.com/mack-truck/mack-truck.github.io/master/index_files/Mack_door.jpg");
+  background-position: 50% 50%;
+}
+.u-section-2 .u-container-layout-1 {
+  padding: 30px 30px 30px 145px;
+}
+.u-section-2 .u-text-1 {
+  font-size: 7.5rem;
+  letter-spacing: 8px;
+  font-weight: 700;
+  margin: 486px -512px 0 0;
+}
+.u-section-2 .u-layout-cell-2 {
+  min-height: 635px;
+}
+.u-section-2 .u-container-layout-2 {
+  padding: 30px 30px 229px;
+}
+.u-section-2 .u-text-2 {
+  line-height: 2;
+  font-size: 1.5rem;
+  font-style: normal;
+  font-weight: 400;
+  margin: 0;
+}
+.u-section-2 .u-text-3 {
+  letter-spacing: 4px;
+  font-weight: 600;
+  margin: 20px 0 0;
+}
+.u-section-2 .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
+.u-section-2 .u-icon-1 {
+  height: 64px;
+  width: 64px;
+  margin: 20px auto 0;
+}
+@media (max-width: 1199px) {
+  .u-section-2 {
+    min-height: 862px;
+  }
+  .u-section-2 .u-shape-1 {
+    height: 585px;
+  }
+  .u-section-2 .u-layout-wrap-1 {
+    width: 940px;
+    margin-top: -525px;
+  }
+  .u-section-2 .u-image-1 {
+    min-height: 742px;
+  }
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: 539px;
+    margin-right: -409px;
+  }
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 742px;
+  }
+  .u-section-2 .u-text-2 {
+    font-size: 1.375rem;
+  }
+}
+@media (max-width: 991px) {
+  .u-section-2 {
+    min-height: 731px;
+  }
+  .u-section-2 .u-layout-wrap-1 {
+    width: 720px;
+  }
+  .u-section-2 .u-image-1 {
+    min-height: 568px;
+  }
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 95px;
+  }
+  .u-section-2 .u-text-1 {
+    font-size: 6.25rem;
+    margin-right: -355px;
+  }
+  .u-section-2 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+  .u-section-2 .u-container-layout-2 {
+    padding-bottom: 30px;
+  }
+  .u-section-2 .u-text-2 {
+    font-size: 1.25rem;
+  }
+}
+@media (max-width: 767px) {
+  .u-section-2 {
+    min-height: 1045px;
+  }
+  .u-section-2 .u-layout-wrap-1 {
+    width: 540px;
+  }
+  .u-section-2 .u-image-1 {
+    min-height: 709px;
+    order: 1;
+  }
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+  .u-section-2 .u-layout-cell-2 {
+    order: 0;
+  }
+  .u-section-2 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media (max-width: 575px) {
+  .u-section-2 {
+    min-height: 1152px;
+  }
+  .u-section-2 .u-shape-1 {
+    height: 675px;
+  }
+  .u-section-2 .u-layout-wrap-1 {
+    width: 340px;
+    margin-top: -615px;
+  }
+  .u-section-2 .u-image-1 {
+    min-height: 523px;
+  }
+  .u-section-2 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 400px;
+  }
+}</style>
+    <style class="u-style">.u-section-3 {
+  background-image: none;
+}
+.u-section-3 .u-sheet-1 {
+  min-height: 678px;
+}
+.u-section-3 .u-group-1 {
+  width: 840px;
+  min-height: 548px;
+  margin: 30px auto 60px;
+}
+.u-section-3 .u-container-layout-1 {
+  padding: 30px;
+}
+.u-section-3 .u-text-1 {
+  font-size: 7.5rem;
+  letter-spacing: 8px;
+  font-weight: 700;
+  margin: 0 243px 0 0;
+}
+.u-section-3 .u-text-2 {
+  letter-spacing: 5px;
+  margin: 10px -20px 0 0;
+}
+.u-section-3 .u-text-3 {
+  line-height: 2;
+  font-size: 1.25rem;
+  margin: 30px 0 0;
+}
+.u-section-3 .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
+.u-section-3 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 40px auto 0 0;
+  padding: 20px 55px 21px 54px;
+}
+@media (max-width: 991px) {
+  .u-section-3 .u-group-1 {
+    width: 720px;
+  }
+  .u-section-3 .u-text-1 {
+    margin-right: 123px;
+  }
+  .u-section-3 .u-text-2 {
+    margin-right: 0;
+  }
+}
+@media (max-width: 767px) {
+  .u-section-3 .u-group-1 {
+    width: 540px;
+  }
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-3 .u-text-1 {
+    font-size: 6.25rem;
+    margin-right: 0;
+  }
+}
+@media (max-width: 575px) {
+  .u-section-3 .u-group-1 {
+    width: 340px;
+  }
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+  }
+}</style>
+    <style class="u-style">.u-section-4 {
+  background-image: none;
+}
+.u-section-4 .u-sheet-1 {
+  min-height: 1394px;
+}
+.u-section-4 .u-gallery-1 {
+  height: 1126px;
+  grid-gap: 17px;
+  margin: 60px auto 0;
+}
+.u-section-4 .u-gallery-inner-1 {
+  grid-template-columns: repeat(3, auto);
+  grid-gap: 17px;
+}
+.u-section-4 .u-over-slide-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-2 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-5 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-6 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-7 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-over-slide-9 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
+  padding: 20px;
+}
+.u-section-4 .u-text-1 {
+  width: 542px;
+  margin: 30px auto 0;
+}
+.u-section-4 .u-btn-1 {
+  border-style: none none solid;
+  padding: 0;
+}
+.u-section-4 .u-btn-2 {
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.875rem;
+  background-image: none;
+  margin: 30px auto 60px;
+  padding: 20px 55px 21px 54px;
+}
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1196px;
+  }
+  .u-section-4 .u-gallery-1 {
+    height: 928px;
+    grid-template-columns: repeat(3, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 2045px;
+  }
+  .u-section-4 .u-gallery-1 {
+    height: 1777px;
+    grid-template-columns: repeat(2, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+  .u-section-4 .u-gallery-inner-1 {
+    grid-template-columns: repeat(2, auto);
+  }
+}
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 5066px;
+  }
+  .u-section-4 .u-gallery-1 {
+    height: 4798px;
+    grid-template-columns: repeat(1, auto);
+    margin-right: initial;
+    margin-left: initial;
+  }
+  .u-section-4 .u-gallery-inner-1 {
+    grid-template-columns: repeat(1, auto);
+  }
+  .u-section-4 .u-text-1 {
+    width: 540px;
+  }
+}
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 3289px;
+  }
+  .u-section-4 .u-gallery-1 {
+    height: 3021px;
+    margin-right: initial;
+    margin-left: initial;
+  }
+  .u-section-4 .u-text-1 {
+    width: 340px;
+  }
+}</style>
+    <style class="u-style">.u-section-5 {
+  background-image: none;
+}
+.u-section-5 .u-sheet-1 {
+  min-height: 467px;
+}
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+.u-section-5 .u-layout-cell-1 {
+  min-height: 348px;
+}
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+.u-section-5 .u-form-1 {
+  width: 510px;
+  height: 371px;
+  margin: 0 -76px 0 0;
+}
+.u-section-5 .u-form-group-1 {
+  width: 100%;
+}
+.u-section-5 .u-form-group-2 {
+  width: 100%;
+}
+.u-section-5 .u-form-group-3 {
+  width: 100%;
+}
+.u-section-5 .u-form-group-4 {
+  width: 100%;
+}
+.u-section-5 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  padding-left: 60px;
+  padding-right: 60px;
+  text-transform: uppercase;
+}
+.u-section-5 .u-layout-cell-2 {
+  min-height: 174px;
+}
+.u-section-5 .u-container-layout-2 {
+  padding: 30px;
+}
+.u-section-5 .u-text-1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  margin: 0;
+}
+.u-section-5 .u-social-icons-1 {
+  white-space: nowrap;
+  height: 32px;
+  min-height: 16px;
+  width: 242px;
+  min-width: 178px;
+  margin: 30px auto 0 0;
+}
+.u-section-5 .u-icon-1 {
+  height: 100%;
+}
+.u-section-5 .u-icon-2 {
+  height: 100%;
+}
+.u-section-5 .u-icon-3 {
+  height: 100%;
+}
+.u-section-5 .u-icon-4 {
+  height: 100%;
+}
+.u-section-5 .u-layout-cell-3 {
+  min-height: 174px;
+}
+.u-section-5 .u-container-layout-3 {
+  padding: 30px;
+}
+.u-section-5 .u-text-2 {
+  font-size: 1.875rem;
+  letter-spacing: 3px;
+  line-height: 1.8;
+  margin: 0;
+}
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 406px;
+  }
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 287px;
+  }
+  .u-section-5 .u-form-1 {
+    width: 441px;
+    margin-right: 0;
+  }
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 143px;
+  }
+  .u-section-5 .u-text-1 {
+    font-size: 3rem;
+  }
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 143px;
+  }
+}
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 319px;
+  }
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+  .u-section-5 .u-form-1 {
+    width: 324px;
+    margin-right: 0;
+  }
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+  .u-section-5 .u-text-1 {
+    font-size: 2.25rem;
+  }
+  .u-section-5 .u-layout-cell-3 {
+    min-height: 100px;
+  }
+}
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 419px;
+  }
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-5 .u-form-1 {
+    width: 520px;
+  }
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .u-section-5 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 399px;
+  }
+  .u-section-5 .u-layout-wrap-1 {
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+  .u-section-5 .u-form-1 {
+    width: 320px;
+  }
+}</style>
+    
+    
+    <meta property="og:title" content="index">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#1f203a">
+    <link rel="canonical" href="https://mack-truck.github.io/">
+    <meta property="og:url" content="https://mack-truck.github.io/">
+  
+<style id="__web-inspector-hide-shortcut-style__">
+.__web-inspector-hide-shortcut__, .__web-inspector-hide-shortcut__ *, .__web-inspector-hidebefore-shortcut__::before, .__web-inspector-hideafter-shortcut__::after
+{
+    visibility: hidden !important;
+}
+</style></head>
+  <body class="u-body vsc-initialized" data-new-gr-c-s-check-loaded="14.1020.0" data-gr-ext-installed="">
+<header class="u-clearfix u-header u-palette-1-base u-header" id="sec-ab9d"><div class="u-clearfix u-sheet u-sheet-1">
+        <a href="https://nicepage.com/" class="u-image u-logo u-image-1 __web-inspector-hide-shortcut__">
+          <img src="./DREU 2021 blog_files/Untitled-2.png" class="u-logo-image u-logo-image-1" data-image-width="64">
+        </a>
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1 u-enable-responsive" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 500;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-text-white" href="https://mack-truck.github.io/?version=e3600621-019a-4668-99f7-a102e0444ee1#">
+              <svg><use xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base active" href="https://website255453.nicepage.io/index.html" data-page-id="261875" style="padding: 10px 20px;">index</a>
+<div class="u-nav-popup fake u-hidden">               <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-nav-link">Menu Item 1</a></li><li class="u-nav-item"><a class="u-nav-link">Menu Item 2</a></li><li class="u-nav-item"><a class="u-nav-link">Menu Item 3</a></li>               </ul>           </div></li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse" style="">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link active" href="https://mack-truck.github.io/" data-page-id="261875" style="padding: 10px 20px;">index</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link active" href="https://mack-truck.github.io/DREU-2021-blog" data-page-id="261875" style="padding: 10px 20px;">Intern blog (DREU)</a>
+                    </li><li class="u-nav-item"><a class="u-button-style u-nav-link active" href="https://www.linkedin.com/in/macksowers" data-page-id="261875" style="padding: 10px 20px;">LinkedIn</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link active" href="https://mack-truck.github.io/resume" data-page-id="261875" style="padding: 10px 20px;">resume</a>
+</li></ul>
+              </div>
+            </div>
+            <div class="u-black u-menu-overlay u-opacity u-opacity-70" style="display: none;"></div>
+          </div>
+        <style class="offcanvas-style">            .u-offcanvas .u-sidenav { flex-basis: 250px !important; }            .u-offcanvas:not(.u-menu-open-right) .u-sidenav { margin-left: -250px; }            .u-offcanvas.u-menu-open-right .u-sidenav { margin-right: -250px; }            @keyframes menu-shift-left    { from { left: 0;        } to { left: 250px;  } }            @keyframes menu-unshift-left  { from { left: 250px;  } to { left: 0;        } }            @keyframes menu-shift-right   { from { right: 0;       } to { right: 250px; } }            @keyframes menu-unshift-right { from { right: 250px; } to { right: 0;       } }            </style></nav>
+      </div></header>
+    <link rel="stylesheet" href="./DREU-2021-mentors_files/nicepage.css" media="screen">
+    <script class="u-script" type="text/javascript" src="./DREU-2021-mentors_files/jquery-1.9.1.min.js.download" defer=""></script>
+    <script class="u-script" type="text/javascript" src="./DREU-2021-mentors_files/nicepage.js.download" defer=""></script>
+<link id="u-google-font" rel="stylesheet" href="./DREU-2021-mentors_files/css"><style class="u-style">.u-section-2 {background-image: linear-gradient(0deg, rgba(146,228,253,0.05), rgba(146,228,253,0.05)), url("//images01.nicepage.com/0e/55/0e55a7504a878e40a0a5d1ca3d5a47fe.jpeg"); background-position: 50% 50%}
+.u-section-2 .u-sheet-1 {min-height: 817px}
+.u-section-2 .u-group-1 {width: 912px; min-height: 409px; position: relative; height: auto; margin: 341px auto 68px 0}
+.u-section-2 .u-text-1 {position: relative; font-size: 6rem; margin: 40px 20px 0}
+.u-section-2 .u-text-2 {position: relative; font-size: 1.25rem; font-style: italic; letter-spacing: 2px; margin: 20px 20px 40px} 
+@media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 818px}
+.u-section-2 .u-group-1 {margin-right: initial; margin-left: initial; width: auto}
+.u-section-2 .u-text-1 {margin-left: 16px; margin-right: 16px}
+.u-section-2 .u-text-2 {margin-left: 16px; margin-right: 16px} }
+@media (max-width: 991px){ .u-section-2 .u-group-1 {width: 576px; margin-right: auto; margin-left: 0}
+.u-section-2 .u-text-1 {margin-left: 13px; margin-right: 13px}
+.u-section-2 .u-text-2 {margin-left: 13px; margin-right: 13px} }
+@media (max-width: 767px){ .u-section-2 .u-group-1 {width: 540px}
+.u-section-2 .u-text-1 {margin-left: 9px; margin-right: 9px}
+.u-section-2 .u-text-2 {margin-left: 9px; margin-right: 9px} }
+@media (max-width: 575px){ .u-section-2 .u-group-1 {width: 340px}
+.u-section-2 .u-text-1 {margin-left: 6px; margin-right: 6px; font-size: 4.5rem}
+.u-section-2 .u-text-2 {margin-left: 6px; margin-right: 6px} }</style><style class="u-style">.u-section-3 .u-sheet-1 {min-height: 809px}
+.u-section-3 .u-layout-wrap-1 {position: relative; margin: 219px auto 0 0}
+.u-section-3 .u-layout-cell-1 {min-height: 175px}
+.u-section-3 .u-container-layout-1 {padding-left: 20px}
+.u-section-3 .u-icon-1 {height: 46px; width: 46px; position: relative; margin: 55px auto 0 0}
+.u-section-3 .u-text-1 {position: relative; text-transform: uppercase; font-size: 1rem; margin: 20px 40px 20px 0}
+.u-section-3 .u-layout-cell-2 {min-height: 175px; background-image: none}
+.u-section-3 .u-container-layout-2 {padding-left: 20px}
+.u-section-3 .u-icon-2 {height: 46px; width: 46px; position: relative; margin: 55px auto 0 0}
+.u-section-3 .u-text-2 {position: relative; text-transform: uppercase; font-size: 1rem; margin: 20px 40px 20px 0}
+.u-section-3 .u-layout-cell-3 {min-height: 175px; background-image: none}
+.u-section-3 .u-container-layout-3 {padding-left: 20px}
+.u-section-3 .u-icon-3 {height: 46px; width: 46px; position: relative; margin: 55px auto 0 0}
+.u-section-3 .u-text-3 {position: relative; text-transform: uppercase; font-size: 1rem; margin: 20px 40px 20px 0}
+.u-section-3 .u-layout-cell-4 {min-height: 325px}
+.u-section-3 .u-text-4 {position: relative; margin: 35px 20px}
+.u-section-3 .u-layout-cell-5 {min-height: 500px}
+.u-section-3 .u-image-1 {margin-top: 45px; margin-right: 45px; margin-left: auto; width: 285px; height: 250px; position: relative}
+.u-section-3 .u-image-2 {width: 285px; height: 250px; position: relative; margin: -90px auto 45px 45px}
+.u-section-3 .u-group-1 {width: 570px; min-height: 121px; position: relative; height: auto; margin: -621px auto 80px 0}
+.u-section-3 .u-text-5 {position: relative; margin: 42px 463px 0 20px}
+.u-section-3 .u-text-6 {position: relative; width: 381px; margin: -38px auto 10px} 
+@media (max-width: 1199px){ .u-section-3 .u-sheet-1 {min-height: 729px}
+.u-section-3 .u-layout-wrap-1 {margin-top: 139px; margin-right: initial; margin-left: initial}
+.u-section-3 .u-container-layout-1 {padding-left: 16px}
+.u-section-3 .u-text-1 {font-size: 0.875rem; margin-right: 33px}
+.u-section-3 .u-container-layout-2 {padding-left: 16px}
+.u-section-3 .u-text-2 {font-size: 0.875rem; margin-right: 33px}
+.u-section-3 .u-container-layout-3 {padding-left: 16px}
+.u-section-3 .u-text-3 {font-size: 0.875rem; margin-right: 33px}
+.u-section-3 .u-text-4 {margin-left: 16px; margin-right: 16px}
+.u-section-3 .u-image-1 {margin-right: 37px; width: 235px}
+.u-section-3 .u-image-2 {width: 235px; margin-left: 37px}
+.u-section-3 .u-group-1 {width: 470px}
+.u-section-3 .u-text-5 {margin-right: 382px; margin-left: 16px}
+.u-section-3 .u-text-6 {width: 314px} }
+@media (max-width: 991px){ .u-section-3 .u-sheet-1 {min-height: 1231px}
+.u-section-3 .u-layout-wrap-1 {margin-top: 234px; margin-right: initial; margin-left: initial}
+.u-section-3 .u-layout-cell-1 {min-height: 150px}
+.u-section-3 .u-container-layout-1 {padding-left: 13px}
+.u-section-3 .u-text-1 {margin-right: 25px; margin-bottom: 0}
+.u-section-3 .u-layout-cell-2 {min-height: 150px}
+.u-section-3 .u-container-layout-2 {padding-left: 13px}
+.u-section-3 .u-text-2 {margin-right: 25px; margin-bottom: 0}
+.u-section-3 .u-layout-cell-3 {min-height: 150px}
+.u-section-3 .u-container-layout-3 {padding-left: 13px}
+.u-section-3 .u-text-3 {margin-right: 25px; margin-bottom: 0}
+.u-section-3 .u-layout-cell-4 {min-height: 278px}
+.u-section-3 .u-text-4 {margin-left: 13px; margin-right: 13px; margin-bottom: 0}
+.u-section-3 .u-layout-cell-5 {min-height: 455px}
+.u-section-3 .u-image-1 {width: 412px; height: 286px; margin-right: 28px; margin-bottom: 0}
+.u-section-3 .u-image-2 {width: 411px; height: 297px; margin-top: -173px; margin-bottom: 0; margin-left: 28px}
+.u-section-3 .u-group-1 {width: 360px; margin-top: -1017px; margin-bottom: 1011px}
+.u-section-3 .u-text-5 {margin-right: 292px; margin-left: 13px}
+.u-section-3 .u-text-6 {width: 241px} }
+@media (max-width: 767px){ .u-section-3 .u-container-layout-1 {padding-left: 9px}
+.u-section-3 .u-text-1 {margin-right: 19px}
+.u-section-3 .u-container-layout-2 {padding-left: 9px}
+.u-section-3 .u-text-2 {margin-right: 19px}
+.u-section-3 .u-container-layout-3 {padding-left: 9px}
+.u-section-3 .u-text-3 {margin-right: 19px}
+.u-section-3 .u-layout-cell-4 {min-height: 318px}
+.u-section-3 .u-text-4 {margin-left: 9px; margin-right: 9px}
+.u-section-3 .u-image-1 {width: 404px; margin-right: 21px}
+.u-section-3 .u-image-2 {width: 404px; margin-left: 21px}
+.u-section-3 .u-group-1 {width: 338px; margin-top: -1357px; margin-bottom: 1351px}
+.u-section-3 .u-text-5 {margin-right: 219px; margin-left: 9px}
+.u-section-3 .u-text-6 {margin-right: 36px; margin-bottom: 41px; margin-left: 76px; width: auto} }
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 1499px}
+.u-section-3 .u-layout-wrap-1 {margin-top: 192px; margin-right: initial; margin-left: initial}
+.u-section-3 .u-container-layout-1 {padding-left: 3px; padding-right: 3px}
+.u-section-3 .u-icon-1 {margin-top: 15px; margin-left: auto}
+.u-section-3 .u-text-1 {margin-left: 6px; margin-right: 6px; margin-bottom: 15px}
+.u-section-3 .u-container-layout-2 {padding-left: 3px; padding-right: 3px}
+.u-section-3 .u-icon-2 {margin-top: 15px; margin-left: auto}
+.u-section-3 .u-text-2 {margin-left: 6px; margin-right: 6px; margin-bottom: 15px}
+.u-section-3 .u-container-layout-3 {padding-left: 3px; padding-right: 3px}
+.u-section-3 .u-icon-3 {margin-top: 15px; margin-left: auto}
+.u-section-3 .u-text-3 {margin-left: 6px; margin-right: 6px; margin-bottom: 15px}
+.u-section-3 .u-layout-cell-4 {min-height: 418px}
+.u-section-3 .u-text-4 {margin-left: 6px; margin-right: 6px}
+.u-section-3 .u-image-1 {height: 216px; width: 257px; margin-top: 70px; margin-right: 0}
+.u-section-3 .u-image-2 {width: 257px; height: 207px; margin-top: -128px; margin-bottom: 90px; margin-left: 0}
+.u-section-3 .u-group-1 {width: 283px; margin-top: -1420px; margin-bottom: 1283px}
+.u-section-3 .u-text-5 {margin-right: 138px; margin-left: 6px}
+.u-section-3 .u-text-6 {width: 189px; margin-right: 11px; margin-left: 23px} }</style><style class="u-style">.u-section-4 .u-sheet-1 {min-height: 657px}
+.u-section-4 .u-layout-wrap-1 {position: relative; margin: 93px auto 93px 0}
+.u-section-4 .u-image-1 {background-image: url("//images01.nicepage.com/7e/6d/7e6dfce4cdaba01e37069d7af746b71e.jpeg"); min-height: 491px; background-position: 50% 50%}
+.u-section-4 .u-layout-cell-2 {min-height: 491px}
+.u-section-4 .u-text-1 {position: relative; margin: 45px 470px 0 20px}
+.u-section-4 .u-text-2 {position: relative; margin: -38px 231px 0 93px}
+.u-section-4 .u-text-3 {position: relative; margin: 20px 20px 45px} 
+@media (max-width: 1199px){ .u-section-4 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-4 .u-text-1 {margin-right: 388px; margin-left: 16px}
+.u-section-4 .u-text-2 {margin-right: 190px; margin-left: 77px}
+.u-section-4 .u-text-3 {margin-left: 16px; margin-right: 16px} }
+@media (max-width: 991px){ .u-section-4 .u-image-1 {min-height: 636px}
+.u-section-4 .u-layout-cell-2 {min-height: 636px}
+.u-section-4 .u-text-1 {margin-right: 269px; margin-left: 13px}
+.u-section-4 .u-text-2 {margin-right: 124px; margin-left: 81px}
+.u-section-4 .u-text-3 {margin: 18px 13px 60px} }
+@media (max-width: 767px){ .u-section-4 .u-text-1 {margin-right: 223px; margin-left: 9px}
+.u-section-4 .u-text-2 {margin-right: 68px; margin-left: 85px}
+.u-section-4 .u-text-3 {margin-left: 9px; margin-right: 9px} }
+@media (max-width: 575px){ .u-section-4 .u-image-1 {background-position: 73.99% 50%}
+.u-section-4 .u-text-1 {margin-right: 140px; margin-left: 6px}
+.u-section-4 .u-text-2 {margin-right: 19px; margin-left: 79px}
+.u-section-4 .u-text-3 {margin-left: 6px; margin-right: 6px} }</style><style class="u-style">.u-section-5 .u-sheet-1 {min-height: 657px}
+.u-section-5 .u-layout-wrap-1 {position: relative; margin: 93px 0 93px auto}
+.u-section-5 .u-layout-cell-1 {min-height: 493px}
+.u-section-5 .u-text-1 {position: relative; margin: 45px 20px 0 470px}
+.u-section-5 .u-text-2 {position: relative; margin: -38px 93px 0 231px}
+.u-section-5 .u-text-3 {position: relative; margin: 20px 20px 45px}
+.u-section-5 .u-image-1 {background-image: url("//images01.nicepage.com/d2/5e/d25ee375e29e388eef53d6c6fe282f87.jpeg"); min-height: 493px; background-position: 50% 100%} 
+@media (max-width: 1199px){ .u-section-5 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-5 .u-text-1 {margin-right: 16px; margin-left: 388px}
+.u-section-5 .u-text-2 {margin-right: 77px; margin-left: 190px}
+.u-section-5 .u-text-3 {margin-left: 16px; margin-right: 16px} }
+@media (max-width: 991px){ .u-section-5 .u-layout-cell-1 {min-height: 711px}
+.u-section-5 .u-text-1 {margin-top: 88px; margin-right: 13px; margin-left: 268px}
+.u-section-5 .u-text-2 {margin-right: 83px; margin-left: 123px}
+.u-section-5 .u-text-3 {margin-left: 13px; margin-right: 13px}
+.u-section-5 .u-image-1 {min-height: 711px} }
+@media (max-width: 767px){ .u-section-5 .u-text-1 {margin-right: 9px; margin-left: 223px}
+.u-section-5 .u-text-2 {margin-right: 39px; margin-left: 70px}
+.u-section-5 .u-text-3 {margin-left: 9px; margin-right: 9px; margin-bottom: 70px} }
+@media (max-width: 575px){ .u-section-5 .u-layout-cell-1 {min-height: 736px}
+.u-section-5 .u-text-1 {margin-right: 6px; margin-left: 140px}
+.u-section-5 .u-text-2 {margin-right: 70px; margin-left: 27px}
+.u-section-5 .u-text-3 {margin-left: 6px; margin-right: 6px} }</style><style class="u-style">.u-section-6 .u-sheet-1 {min-height: 1367px}
+.u-section-6 .u-layout-wrap-1 {position: relative; margin: 60px auto 1px 0}
+.u-section-6 .u-layout-cell-1 {min-height: 288px}
+.u-section-6 .u-text-1 {position: relative; margin: 25px 464px 0 20px}
+.u-section-6 .u-text-2 {position: relative; margin: -38px 228px 0 96px}
+.u-section-6 .u-text-3 {position: relative; margin: 20px 20px 25px}
+.u-section-6 .u-image-1 {background-image: url("//images01.nicepage.com/b1/51/b1510ab434d3866c345b7b2f99ea4814.jpeg"); min-height: 288px; background-position: 50% 50%}
+.u-section-6 .u-layout-cell-3 {min-height: 349px}
+.u-section-6 .u-image-2 {object-position: 50% 14.38%; background-position: 50% 14.38%; width: 855px; left: 0; right: auto}
+.u-section-6 .u-image-3 {background-image: url("//images01.nicepage.com/7d/3f/7d3f5d189a79f253f4c60b9ca44893e1.jpeg"); min-height: 293px; background-position: 50% 50%}
+.u-section-6 .u-layout-cell-5 {min-height: 293px}
+.u-section-6 .u-image-4 {width: 420px; left: auto; right: 0}
+.u-section-6 .u-image-5 {background-image: url("//images01.nicepage.com/b3/14/b3143dfa661047d0f038b357c060a782.jpeg"); min-height: 587px; background-position: 50% 50%} 
+@media (max-width: 1199px){ .u-section-6 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-6 .u-text-1 {margin-right: 383px; margin-left: 16px}
+.u-section-6 .u-text-2 {margin-right: 188px; margin-left: 79px}
+.u-section-6 .u-text-3 {margin-left: 16px; margin-right: 16px}
+.u-section-6 .u-layout-cell-3 {background-position: 50% 14.38%}
+.u-section-6 .u-image-2 {width: 705px}
+.u-section-6 .u-layout-cell-5 {background-position: 50% 50%}
+.u-section-6 .u-image-4 {width: 346px} }
+@media (max-width: 991px){ .u-section-6 .u-layout-cell-1 {min-height: 353px}
+.u-section-6 .u-text-1 {margin-right: 293px; margin-left: 13px}
+.u-section-6 .u-text-2 {margin-right: 123px; margin-left: 82px}
+.u-section-6 .u-text-3 {margin-left: 13px; margin-right: 13px}
+.u-section-6 .u-image-1 {min-height: 353px}
+.u-section-6 .u-image-2 {width: 540px}
+.u-section-6 .u-image-3 {min-height: 294px}
+.u-section-6 .u-layout-cell-5 {min-height: 294px}
+.u-section-6 .u-image-4 {width: 265px} }
+@media (max-width: 767px){ .u-section-6 .u-text-1 {margin-right: 220px; margin-left: 9px}
+.u-section-6 .u-text-2 {margin-right: 60px; margin-left: 93px}
+.u-section-6 .u-text-3 {margin-left: 9px; margin-right: 9px; margin-bottom: 35px}
+.u-section-6 .u-image-2 {width: 401px}
+.u-section-6 .u-image-4 {width: 249px} }
+@media (max-width: 575px){ .u-section-6 .u-text-1 {margin-right: 138px; margin-left: 6px}
+.u-section-6 .u-text-2 {margin-right: 25px; margin-left: 72px}
+.u-section-6 .u-text-3 {margin-left: 6px; margin-right: 6px}
+.u-section-6 .u-image-2 {width: 340px}
+.u-section-6 .u-image-4 {width: 209px} }</style><style class="u-style">.u-section-7 .u-sheet-1 {min-height: 661px}
+.u-section-7 .u-layout-wrap-1 {position: relative; margin: 108px auto 108px 0}
+.u-section-7 .u-layout-cell-1 {min-height: 465px}
+.u-section-7 .u-image-1 {height: 371px; position: relative; margin: 0 auto 45px 0}
+.u-section-7 .u-image-2 {background-image: url("//images01.nicepage.com/46/62/4662388c26cf844a129b893c90f9c153.jpeg"); min-height: 465px; background-position: 50% 50%}
+.u-section-7 .u-layout-cell-3 {min-height: 465px}
+.u-section-7 .u-container-layout-3 {padding-left: 6px}
+.u-section-7 .u-text-1 {position: relative; margin: 45px 371px 0 20px}
+.u-section-7 .u-text-2 {position: relative; margin: -38px 73px 0 103px}
+.u-section-7 .u-text-3 {position: relative; margin: 20px 20px 45px} 
+@media (max-width: 1199px){ .u-section-7 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-7 .u-layout-cell-1 {background-position: 50% 50%}
+.u-section-7 .u-image-1 {margin-right: initial; margin-left: initial}
+.u-section-7 .u-container-layout-3 {padding-left: 5px}
+.u-section-7 .u-text-1 {margin-top: 65px; margin-right: 306px; margin-left: 16px}
+.u-section-7 .u-text-2 {margin-right: 0; margin-left: 85px}
+.u-section-7 .u-text-3 {margin-top: 27px; margin-left: 16px; margin-right: 16px} }
+@media (max-width: 991px){ .u-section-7 .u-container-layout-3 {padding-left: 4px}
+.u-section-7 .u-text-1 {margin-top: 66px; margin-right: 235px; margin-left: 13px}
+.u-section-7 .u-text-2 {margin-top: -33px; margin-right: 13px; margin-left: 74px}
+.u-section-7 .u-text-3 {margin-top: 60px; margin-left: 13px; margin-right: 13px} }
+@media (max-width: 767px){ .u-section-7 .u-container-layout-3 {padding-left: 3px}
+.u-section-7 .u-text-1 {margin-right: 176px; margin-left: 9px}
+.u-section-7 .u-text-2 {margin-right: 0; margin-left: 83px}
+.u-section-7 .u-text-3 {margin-left: 9px; margin-right: 9px} }
+@media (max-width: 575px){ .u-section-7 .u-container-layout-3 {padding-left: 6px}
+.u-section-7 .u-text-1 {margin-top: 45px; margin-right: 111px; margin-left: 0}
+.u-section-7 .u-text-2 {margin-top: 14px; margin-right: 47px; margin-left: 0}
+.u-section-7 .u-text-3 {margin-top: 31px; margin-right: 6px; margin-left: 0} }</style><style class="u-style">.u-section-8 .u-sheet-1 {min-height: 382px}
+.u-section-8 .u-layout-wrap-1 {position: relative; margin: 78px auto 78px 0}
+.u-section-8 .u-layout-cell-1 {min-height: 227px}
+.u-section-8 .u-container-layout-1 {padding-left: 13px}
+.u-section-8 .u-text-1 {position: relative; margin: 25px 286px 0 20px}
+.u-section-8 .u-text-2 {position: relative; margin: -38px 85px 25px 94px}
+.u-section-8 .u-layout-cell-2 {min-height: 227px}
+.u-section-8 .u-text-3 {position: relative; margin: 25px 20px 0}
+.u-section-8 .u-text-4 {position: relative; margin: 20px 20px 25px} 
+@media (max-width: 1199px){ .u-section-8 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
+.u-section-8 .u-container-layout-1 {padding-left: 11px}
+.u-section-8 .u-text-1 {margin-right: 236px; margin-left: 16px}
+.u-section-8 .u-text-2 {margin-right: 25px; margin-bottom: 164px; margin-left: 78px}
+.u-section-8 .u-text-3 {margin-left: 16px; margin-right: 16px}
+.u-section-8 .u-text-4 {margin-left: 16px; margin-right: 16px} }
+@media (max-width: 991px){ .u-section-8 .u-layout-cell-1 {min-height: 270px}
+.u-section-8 .u-container-layout-1 {padding-left: 13px}
+.u-section-8 .u-text-1 {margin-right: 181px; margin-left: 0}
+.u-section-8 .u-text-2 {margin: 13px 33px 25px 0}
+.u-section-8 .u-layout-cell-2 {min-height: 270px}
+.u-section-8 .u-text-3 {margin-left: 13px; margin-right: 13px}
+.u-section-8 .u-text-4 {margin-left: 13px; margin-right: 13px} }
+@media (max-width: 767px){ .u-section-8 .u-sheet-1 {min-height: 561px}
+.u-section-8 .u-layout-wrap-1 {margin-top: 79px; margin-bottom: 20px; margin-right: initial; margin-left: initial}
+.u-section-8 .u-layout-cell-1 {min-height: 155px}
+.u-section-8 .u-container-layout-1 {padding-left: 6px}
+.u-section-8 .u-text-1 {margin-top: 3px; margin-right: 135px; margin-left: 15px}
+.u-section-8 .u-text-2 {margin: -38px 0 0 91px}
+.u-section-8 .u-layout-cell-2 {min-height: 281px}
+.u-section-8 .u-text-3 {margin-top: 1px; margin-left: 9px; margin-right: 9px}
+.u-section-8 .u-text-4 {margin-left: 9px; margin-right: 9px} }
+@media (max-width: 575px){ .u-section-8 .u-container-layout-1 {padding-left: 10px}
+.u-section-8 .u-text-1 {margin-right: 85px; margin-left: 0}
+.u-section-8 .u-text-2 {margin: 15px 47px 15px 0}
+.u-section-8 .u-layout-cell-2 {min-height: 321px}
+.u-section-8 .u-text-3 {margin-left: 6px; margin-right: 6px}
+.u-section-8 .u-text-4 {margin-left: 6px; margin-right: 6px} }</style><style class="u-style">.u-section-9 {background-image: url("//images01.nicepage.com/c6/e5/c6e59572981d6fada66cf280f1b6bf0f.jpeg"); background-position: 50% 50%}
+.u-section-9 .u-sheet-1 {min-height: 500px} 
+@media (max-width: 1199px){ .u-section-9 .u-sheet-1 {min-height: 400px} }
+@media (max-width: 575px){ .u-section-9 .u-sheet-1 {min-height: 275px} }</style><script type="application/ld+json">{
+		"@context": "http://schema.org",
+		"@type": "Organization",
+		"name": "",
+		"url": "https://website13008.nicepage.io/Page-1.html"
+}</script><meta property="og:title" content="Page"><meta property="og:type" content="website"><meta property="og:description" content=""><meta name="theme-color" content="#73a3de"><link rel="canonical" href="https://website13008.nicepage.io/Page-1.html"><meta property="og:url" content="https://website13008.nicepage.io/Page-1.html"></head>
+<body class="u-body vsc-initialized" data-new-gr-c-s-check-loaded="14.1026.0" data-gr-ext-installed="">
+<header class="u-clearfix u-header u-palette-1-base u-header" id="sec-ab9d"><div class="u-clearfix u-sheet u-sheet-1">
+        
+        <nav class="u-menu u-menu-dropdown u-offcanvas u-menu-1 u-enable-responsive open" data-responsive-from="XL">
+          <div class="menu-collapse" style="font-size: 1rem; letter-spacing: 0px; font-weight: 500;">
+            <a class="u-button-style u-custom-active-border-color u-custom-active-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-hover-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base u-text-white" href="https://mack-truck.github.io/?version=e3600621-019a-4668-99f7-a102e0444ee1#">
+              <svg><use xlink:href="#menu-hamburger"></use></svg>
+              <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><symbol id="menu-hamburger" viewBox="0 0 16 16" style="width: 16px; height: 16px;"><rect y="1" width="16" height="2"></rect><rect y="7" width="16" height="2"></rect><rect y="13" width="16" height="2"></rect>
+</symbol>
+</defs></svg>
+            </a>
+          </div>
+          <div class="u-custom-menu u-nav-container">
+            <ul class="u-nav u-spacing-2 u-unstyled u-nav-1"><li class="u-nav-item"><a class="u-active-grey-5 u-border-active-palette-1-base u-border-hover-palette-1-base u-button-style u-hover-grey-10 u-nav-link u-text-active-palette-3-base u-text-hover-palette-3-base u-text-palette-3-base active" href="https://website255453.nicepage.io/index.html" data-page-id="261875" style="padding: 10px 20px;">index</a>
+<div class="u-nav-popup fake u-hidden">               <ul class="u-nav u-unstyled"><li class="u-nav-item"><a class="u-nav-link">Menu Item 1</a></li><li class="u-nav-item"><a class="u-nav-link">Menu Item 2</a></li><li class="u-nav-item"><a class="u-nav-link">Menu Item 3</a></li>               </ul>           </div></li></ul>
+          </div>
+          <div class="u-custom-menu u-nav-container-collapse" style="width: 100%;">
+            <div class="u-black u-container-style u-inner-container-layout u-opacity u-opacity-95 u-sidenav">
+              <div class="u-sidenav-overflow">
+                <div class="u-menu-close"></div>
+                <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2"><li class="u-nav-item"><a class="u-button-style u-nav-link active" href="https://mack-truck.github.io/" data-page-id="261875" style="padding: 10px 20px;">index</a>
+</li><li class="u-nav-item"><a class="u-button-style u-nav-link active" href="https://mack-truck.github.io/DREU-2021-blog" data-page-id="261875" style="padding: 10px 20px;">Intern blog (DREU)</a>
+                    </li><li class="u-nav-item"></li></ul></div></div></div></nav></div></header><section class="u-clearfix u-image u-shading u-section-2" id="sec-2eb3"><div class="u-clearfix u-sheet u-sheet-1"><div class="u-container-style u-expanded-width-lg u-group u-group-1"><div class="u-container-layout u-valign-bottom"><h1 class="u-heading-font u-text u-title u-text-1">Creative Agency</h1><p class="u-text u-text-2">A design agency built to build modern brands…</p></div></div></div></section><section class="u-clearfix u-white u-section-3" id="sec-01e3"><div class="u-clearfix u-sheet u-sheet-1"><div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1"><div class="u-layout">  <div class="u-layout-row"><div class="u-size-30 u-size-60-md">  <div class="u-layout-col"><div class="u-size-20">  <div class="u-layout-row"><div class="u-align-center-xs u-container-style u-layout-cell u-left-cell u-similar-fill u-size-20 u-layout-cell-1"><div class="u-container-layout u-valign-middle-xs u-container-layout-1"><span class="u-icon u-icon-circle u-icon-1"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 372 372" style="undefined"><use xlink:href="#svg-39db"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-39db" x="0px" y="0px" viewBox="0 0 372 372" style="enable-background:new 0 0 372 372;" xml:space="preserve" class="u-svg-content">
+<g>
+	<g>
+		<path d="M320,19.6H52c-25.12,0-52,13.68-52,52v179.68c0,38.32,26.88,52,52,52h99.2v33.12h-16.48c-4.418,0-8,3.582-8,8s3.582,8,8,8    h105.6c4.418,0,8-3.582,8-8s-3.582-8-8-8H220.8v-33.12H320c38.32,0,52-26.88,52-52V71.6C372,33.28,345.12,19.6,320,19.6z     M204.8,336.4h-37.6v-33.12h37.6V336.4z M356,251.28c0,10.8-3.52,36-36,36H52c-10.8,0-36-3.52-36-36v-11.44h340V251.28z     M356,223.92H16v-152c0-32.48,25.2-36,36-36h268c10.8,0,36,3.52,36,36V223.92z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M315.69,57.359c-3.532-2.654-8.547-1.942-11.201,1.59c-0.003,0.004-0.006,0.007-0.008,0.011l0.4,0l-59.68,80l-28-36.4    c-1.458-1.897-3.689-3.042-6.08-3.12c-2.381-0.068-4.669,0.93-6.24,2.72L159.28,154l-33.44-57.12    c-1.426-2.405-4.004-3.891-6.8-3.92c-2.808-0.016-5.42,1.441-6.88,3.84L56.96,186c-2.841,3.384-2.4,8.43,0.984,11.271    c3.384,2.841,8.43,2.4,11.271-0.984c0.573-0.682,1.027-1.455,1.345-2.287l48-78.24l32,55.12c2.231,3.814,7.131,5.096,10.945,2.865    c0.724-0.424,1.377-0.959,1.935-1.585L210,120.08l28.56,37.12c1.634,1.85,3.937,2.972,6.4,3.12c2.49-0.025,4.826-1.208,6.32-3.2    l66-88.56C319.934,65.028,319.222,60.013,315.69,57.359z"></path>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg></span><h5 class="u-custom-font u-font-comfortaa u-text u-text-1">Branding</h5></div></div>
+<div class="u-align-center-xs u-container-style u-layout-cell u-similar-fill u-size-20 u-layout-cell-2"><div class="u-container-layout u-valign-middle-xs u-container-layout-2"><span class="u-icon u-icon-circle u-icon-2"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 511.999 511.999" style="undefined"><use xlink:href="#svg-93a5"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-93a5" x="0px" y="0px" viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 511.999 511.999;" xml:space="preserve" class="u-svg-content">
+<g>
+	<g>
+		<path d="M459.071,216.925c-2.912-1.106-6.202-0.299-8.271,2.028l-64.129,72.145c-1.962,2.208-2.446,5.361-1.236,8.056    c1.21,2.694,3.888,4.427,6.842,4.427h12.156c-9.341,17.492-32.725,53.277-75.93,73.674c-7.549,3.564-15.99,3.14-23.16-1.163    c-7.167-4.301-11.51-11.546-11.917-19.879L283.82,159.29h44.328c8.556,0,15.516-6.96,15.516-15.516V111.71    c0-4.143-3.358-7.5-7.5-7.5c-4.142,0-7.5,3.357-7.5,7.5v0.516h-47.139l-1.16-23.778c14.233-8.518,23.219-24.104,23.219-40.867    C303.583,21.345,282.238,0,256.002,0c-26.236,0-47.581,21.345-47.581,47.581c0,16.749,8.99,32.348,23.219,40.867l-1.16,23.778    h-47.14v-0.516c0-4.143-3.358-7.5-7.5-7.5c-4.142,0-7.5,3.357-7.5,7.5v32.064c0,8.556,6.96,15.516,15.516,15.516h44.328    l-0.395,8.106c-0.202,4.137,2.989,7.655,7.126,7.857c0.125,0.006,0.248,0.009,0.371,0.009c3.975,0,7.29-3.122,7.485-7.135    l0.431-8.837h25.599l9.642,197.653c0.645,13.224,7.815,25.19,19.18,32.011c11.369,6.822,25.306,7.52,37.282,1.865    c64.038-30.232,87.454-89.536,88.419-92.046c0.887-2.307,0.582-4.901-0.817-6.938s-3.711-3.254-6.183-3.254h-7.347l39.928-44.918    v64.303l-3.548-4.714c-1.727-2.294-4.612-3.4-7.429-2.851c-2.818,0.55-5.074,2.661-5.812,5.436    c-20.833,78.42-68.982,109.722-115.546,139.994c-19.256,12.519-37.686,24.516-53.069,39.324v-92.88c0-4.143-3.358-7.5-7.5-7.5    c-4.142,0-7.5,3.357-7.5,7.5v92.88c-15.383-14.809-33.813-26.806-53.069-39.324c-46.563-30.272-94.713-61.574-115.546-139.994    c-0.737-2.775-2.994-4.886-5.812-5.436c-2.817-0.548-5.702,0.557-7.429,2.851l-3.548,4.714v-64.303l39.928,44.918h-7.347    c-2.471,0-4.784,1.217-6.183,3.254c-1.399,2.037-1.705,4.632-0.817,6.938c0.966,2.51,24.382,61.813,88.419,92.046    c11.977,5.654,25.914,4.956,37.282-1.865c11.365-6.82,18.535-18.787,19.18-32.011l7.738-158.637    c0.202-4.138-2.989-7.655-7.126-7.856c-4.133-0.203-7.654,2.988-7.856,7.125l-7.738,158.637    c-0.406,8.333-4.75,15.579-11.917,19.879c-7.17,4.303-15.611,4.727-23.16,1.163c-43.208-20.399-66.593-56.188-75.931-73.674    h12.156c2.954,0,5.632-1.733,6.842-4.427c1.21-2.694,0.726-5.848-1.236-8.056l-64.129-72.145    c-2.068-2.328-5.361-3.134-8.271-2.028c-2.911,1.107-4.834,3.897-4.834,7.011v106.464c0,3.226,2.062,6.091,5.122,7.113    c3.059,1.022,6.431-0.025,8.37-2.603l8.096-10.756c24.285,73.608,73.681,105.719,117.57,134.252    c24.167,15.711,46.995,30.552,62.847,50.728c1.422,1.81,3.596,2.866,5.897,2.866c2.301,0,4.476-1.057,5.897-2.866    c15.853-20.176,38.68-35.016,62.847-50.728c43.889-28.533,93.285-60.645,117.57-134.252l8.096,10.756    c1.94,2.578,5.312,3.625,8.37,2.603c3.06-1.022,5.122-3.887,5.122-7.113V223.936C463.905,220.822,461.981,218.032,459.071,216.925    z M223.423,47.582C223.421,29.615,238.037,15,256.002,15c17.965,0,32.581,14.615,32.581,32.581    c0,10.375-5.035,20.083-13.198,26.165c-4.451-5.858-11.486-9.616-19.382-9.616c-7.896,0-14.93,3.758-19.381,9.615    C228.46,67.662,223.423,57.948,223.423,47.582z M266.505,112.226h-21.007l1.182-24.218c0.243-4.979,4.338-8.879,9.322-8.879    c4.984,0,9.08,3.9,9.322,8.879L266.505,112.226z M183.857,144.29c-0.285,0-0.516-0.231-0.516-0.516v-16.549h145.322v16.549    c0,0.284-0.231,0.516-0.516,0.516H183.857z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M256.002,336.678c-4.142,0-7.5,3.357-7.5,7.5v16.032c0,4.142,3.358,7.5,7.5,7.5c4.142,0,7.5-3.358,7.5-7.5v-16.032    C263.502,340.035,260.144,336.678,256.002,336.678z"></path>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg></span><h5 class="u-custom-font u-font-comfortaa u-text u-text-2">consulting</h5></div></div>
+<div class="u-align-center-xs u-container-style u-layout-cell u-similar-fill u-size-20 u-layout-cell-3"><div class="u-container-layout u-valign-middle-xs u-container-layout-3"><span class="u-icon u-icon-circle u-icon-3"><svg class="u-svg-link" preserveAspectRatio="xMidYMin slice" viewBox="0 0 511.999 511.999" style="undefined"><use xlink:href="#svg-e802"></use></svg><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="svg-e802" x="0px" y="0px" viewBox="0 0 511.999 511.999" style="enable-background:new 0 0 511.999 511.999;" xml:space="preserve" class="u-svg-content">
+<g>
+	<g>
+		<path d="M453.034,361.322c-2.808-1.164-6.04-0.521-8.19,1.628l-82.126,82.126c-2.149,2.15-2.792,5.382-1.628,8.19    c1.162,2.809,3.904,4.639,6.943,4.639h82.126c4.151,0,7.515-3.364,7.515-7.515v-82.126    C457.673,365.225,455.842,362.485,453.034,361.322z M386.173,442.876l56.469-56.469v56.469H386.173z"></path>
+	</g>
+</g>
+<g>
+	<g>
+		<path d="M507.361,240.867c-2.808-1.164-6.04-0.521-8.19,1.628l-22.507,22.507V111.971c0-4.151-3.365-7.515-7.515-7.515h-57.741    l20.96-20.96c0.003-0.003,0.006-0.007,0.009-0.01l20.196-20.196c4.327-4.327,6.71-10.083,6.71-16.203s-2.383-11.874-6.71-16.203    L429.219,7.53c-4.327-4.327-10.083-6.71-16.203-6.71s-11.875,2.383-16.203,6.71l-20.206,20.206l-24.416,24.416l-52.303,52.303    H66.62V30.11c0-4.151-3.365-7.515-7.515-7.515C26.515,22.597,0,49.11,0,81.702v319.186c0,0.555,0.064,1.095,0.178,1.615    c1.038,13.829,7.021,26.678,17.02,36.432C27.886,449.359,41.995,455.1,56.927,455.1h229.638l-43.249,43.249    c-2.149,2.15-2.792,5.381-1.629,8.19c1.163,2.808,3.904,4.639,6.943,4.639h255.855c4.15,0,7.515-3.364,7.515-7.515V247.81    C512,244.771,510.168,242.03,507.361,240.867z M407.443,18.159c3.072-3.074,8.077-3.074,11.149,0l23.355,23.355    c3.074,3.073,3.074,8.076,0,11.15l-14.891,14.892L392.55,33.051L407.443,18.159z M381.922,43.679l34.505,34.504l-13.789,13.789    l-34.503-34.504L381.922,43.679z M496.972,332.252h-13.865c-4.151,0-7.515,3.364-7.515,7.515c0,4.151,3.364,7.515,7.515,7.515    h13.865v22.646h-13.865c-4.151,0-7.515,3.364-7.515,7.515s3.364,7.515,7.515,7.515h13.865v22.645h-13.865    c-4.151,0-7.515,3.364-7.515,7.515c0,4.151,3.364,7.515,7.515,7.515h13.865v22.646h-13.865c-4.151,0-7.515,3.365-7.515,7.515    c0,4.151,3.364,7.515,7.515,7.515h13.865v35.842h-230.2l75.908-75.907c2.935-2.936,2.935-7.693,0-10.628    c-0.337-0.337-0.699-0.629-1.078-0.889c-2.926-2.004-6.952-1.709-9.551,0.889l-30.456,30.456H56.928    c-22.792,0-41.14-17.794-41.862-40.545c0.043-1.428,0.154-2.844,0.332-4.244c0.001-0.008,0.002-0.016,0.003-0.024    c0.084-0.665,0.185-1.327,0.3-1.985c0.013-0.075,0.027-0.15,0.04-0.225c0.105-0.587,0.223-1.171,0.352-1.753    c0.036-0.162,0.074-0.324,0.112-0.485c0.114-0.492,0.237-0.981,0.369-1.468c0.072-0.264,0.147-0.525,0.224-0.788    c0.11-0.382,0.224-0.763,0.345-1.14c0.121-0.377,0.25-0.75,0.381-1.123c0.091-0.261,0.181-0.522,0.279-0.781    c0.183-0.492,0.377-0.979,0.577-1.462c0.057-0.139,0.113-0.28,0.172-0.419c0.257-0.6,0.524-1.193,0.806-1.779    c0.012-0.025,0.023-0.05,0.035-0.075c5.878-12.164,17.183-21.233,30.75-24.047c0.038-0.008,0.076-0.017,0.114-0.025    c0.622-0.127,1.25-0.236,1.882-0.337c0.105-0.017,0.21-0.038,0.317-0.054c0.571-0.087,1.148-0.155,1.725-0.22    c0.162-0.018,0.323-0.043,0.486-0.059c0.557-0.056,1.119-0.093,1.681-0.128c0.178-0.011,0.356-0.03,0.534-0.039    c0.736-0.037,1.478-0.056,2.223-0.056c4.15,0,7.515-3.364,7.515-7.515v-54.489c0-4.151-3.365-7.515-7.515-7.515    c-4.15,0-7.515,3.364-7.515,7.515v47.447c-12.69,1.605-24.469,7.265-33.757,16.335c-0.977,0.954-1.903,1.946-2.805,2.954V81.702    c0-21.741,15.826-39.858,36.561-43.436v73.705v152.777v0.001c0,4.15,3.365,7.515,7.515,7.515c4.15,0,7.515-3.365,7.515-7.515    v-0.001V119.486h218.24l-41.544,41.544c-2.935,2.936-2.935,7.693,0,10.628c2.935,2.934,7.693,2.934,10.627,0l54.373-54.373    c0.002-0.002,0.003-0.004,0.005-0.005l49.185-49.185l34.503,34.505l-4.048,4.048c-0.003,0.003-0.007,0.006-0.01,0.009    l-151.528,151.53l-34.504-34.504l29.868-29.868c2.935-2.936,2.935-7.693,0-10.628c-2.935-2.934-7.693-2.934-10.627,0    l-35.183,35.182c-0.188,0.188-0.364,0.387-0.529,0.591c-0.055,0.068-0.104,0.141-0.156,0.212c-0.106,0.141-0.21,0.283-0.307,0.431    c-0.055,0.086-0.105,0.174-0.157,0.263c-0.083,0.14-0.163,0.282-0.236,0.427c-0.048,0.094-0.091,0.189-0.135,0.287    c-0.067,0.147-0.129,0.297-0.186,0.447c-0.02,0.053-0.046,0.103-0.065,0.156l-14.641,41.475l-9.982,28.279    c-0.132,0.376-0.227,0.758-0.298,1.143h-24.992c-4.15,0-7.515,3.364-7.515,7.515c0,4.151,3.365,7.515,7.515,7.515h208.114    c4.151,0,7.515-3.364,7.515-7.515c0-4.151-3.364-7.515-7.515-7.515H193.093l45.83-16.178c0.038-0.014,0.074-0.033,0.112-0.047    c0.178-0.066,0.353-0.14,0.526-0.219c0.069-0.032,0.138-0.062,0.205-0.095c0.18-0.09,0.357-0.189,0.531-0.295    c0.056-0.034,0.114-0.065,0.169-0.1c0.181-0.116,0.357-0.243,0.53-0.377c0.043-0.033,0.088-0.062,0.13-0.096    c0.209-0.168,0.414-0.349,0.608-0.543l154.644-154.643h65.255v160.546L354.137,387.53c-2.935,2.936-2.935,7.693,0,10.628    c0.183,0.183,0.374,0.355,0.571,0.516c1.378,1.123,3.061,1.685,4.743,1.685s3.366-0.562,4.743-1.685    c0.197-0.16,0.388-0.333,0.571-0.516c0.003-0.003,0,0,0.003-0.003L496.972,265.95V332.252z M222.677,265.696l-21.526,7.599    l-14.342-14.342l7.599-21.526L222.677,265.696z"></path>
+	</g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg></span><h5 class="u-custom-font u-font-comfortaa u-text u-text-3">design</h5></div></div>  </div></div>
+<div class="u-size-40">  <div class="u-layout-row"><div class="u-container-style u-layout-cell u-left-cell u-similar-fill u-size-60 u-layout-cell-4"><div class="u-container-layout"><p class="u-text u-text-4">We named our agency BASIC because to us, the best brands are simple ones. Brands thrive on their ability to be understood. People do too. 
+<br>
+<br>This core philosophy stands at the center of everything we make. The brands we build and the experiences we create live at the intersection of clarity and surprise, and are positioned to matter in culture through shared values and ideals. Simplicity done right is what connects a brand with its audience, creates a winning strategy, and drives our making, day in, day out.
+<br>
+<br></p><p></p></div></div>  </div></div>  </div></div>
+<div class="u-size-30 u-size-60-md">  <div class="u-layout-row"><div class="u-container-style u-expand-resize u-layout-cell u-right-cell u-similar-fill u-size-60 u-layout-cell-5"><div class="u-container-layout"><img class="u-image u-image-1" src="./DREU-2021-mentors_files/6d2b76628604b50ef51b3a42f4958458.jpeg"><img class="u-image u-image-2" src="./DREU-2021-mentors_files/0a2b7d1106acef85534f3d2dd5cdc02e.jpeg"></div></div>  </div></div>  </div></div></div><div class="u-container-style u-group u-group-1"><div class="u-container-layout"><h3 class="u-text u-text-5">01</h3><h2 class="u-text u-text-6">Services</h2></div></div></div></section><section class="u-clearfix u-palette-5-light-3 u-section-4" id="sec-5ce4"><div class="u-clearfix u-sheet u-sheet-1"><div class="u-clearfix u-expanded-width u-gutter-20 u-layout-wrap u-layout-wrap-1"><div class="u-layout">  <div class="u-layout-row"><div class="u-container-style u-image u-layout-cell u-left-cell u-similar-fill u-size-30 u-image-1"><div class="u-container-layout"></div></div>
+<div class="u-container-style u-layout-cell u-right-cell u-similar-fill u-size-30 u-layout-cell-2"><div class="u-container-layout u-valign-middle-lg u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs"><h3 class="u-text u-text-1">02</h3><h2 class="u-text u-text-2">History</h2><p class="u-text u-text-3">At Wonderful we don’t simply brand companies, build websites and run digital marketing campaigns. We create innovative solutions to help businesses work at their full potential.
+<br>
+<br>Through our best-in-class techniques and bespoke growth plans we assess digital problems and put in place strategies that lead to commercial success.
+<br>
+<br>This means achieving what matters most to you. Whether that’s creating a phenomenal brand, a highly-optimised eCommerce website, a digital marketing strategy that delivers quality leads - or all 3. We know how to make it happen.</p></div></div>  </div></div></div></div></section><section class="u-clearfix u-white u-section-5" id="sec-f0dd"><div class="u-clearfix u-sheet u-sheet-1"><div class="u-clearfix u-expanded-width u-gutter-20 u-layout-wrap u-layout-wrap-1"><div class="u-layout">  <div class="u-layout-row">
+  <div class="u-align-right u-container-style u-layout-cell u-right-cell u-similar-fill u-size-30 u-layout-cell-1"><div class="u-container-layout u-valign-middle-lg u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs"><h3 class="u-text u-text-1">03</h3><h2 class="u-text u-text-2">About</h2><p class="u-text u-text-3">Through our best-in-class techniques and bespoke growth plans we assess digital problems and put in place strategies that lead to commercial success.  This means achieving what matters most to you. Whether that’s creating a phenomenal brand, a highly-optimised eCommerce website, a digital marketing strategy that delivers quality leads – or all 3. We know how to make it happen.
+<br>
+<br>We push boundaries through thinking not just about your brand, your website, or your digital marketing – but how all of the digital elements of your business work together. It means thinking creatively about technology, and about the technological impact of creative. It’s at the intersection of these two areas that we help clients be Wonderful.</p></div></div><div class="u-container-style u-image u-layout-cell u-left-cell u-similar-fill u-size-30 u-image-1"><div class="u-container-layout"></div></div></div></div></div></div></section><section class="u-clearfix u-palette-5-light-3 u-section-6" id="sec-f8de"><div class="u-clearfix u-sheet u-sheet-1"><div class="u-clearfix u-expanded-width u-gutter-20 u-layout-wrap u-layout-wrap-1"><div class="u-layout">  <div class="u-layout-col"><div class="u-size-12 u-size-20-md">  <div class="u-layout-row"><div class="u-size-30">  <div class="u-layout-col"><div class="u-container-style u-layout-cell u-left-cell u-similar-fill u-size-60 u-layout-cell-1"><div class="u-container-layout"><h3 class="u-text u-text-1">04</h3><h2 class="u-text u-text-2">Works</h2><p class="u-text u-text-3">In a digital-led and experience driven economy, clients engage us to help them envision and create their future.
+<br>As a strategic partner we craft digital-first brand programs, interactive experiences, and eCommerce flagships that differentiate and resonate in today’s consumer-centric, ever changing business environment.</p></div></div>  </div></div>
+<div class="u-size-30">  <div class="u-layout-col"><div class="u-container-style u-image u-layout-cell u-right-cell u-similar-fill u-size-60 u-image-1"><div class="u-container-layout"></div></div>  </div></div>  </div></div>
+<div class="u-size-24 u-size-40-md">  <div class="u-layout-row"><div class="u-container-style u-expand-resize u-layout-cell u-left-cell u-right-cell u-similar-fill u-size-60 u-layout-cell-3"><div class="u-container-layout"><img class="u-expanded-height u-image u-image-2" src="./DREU-2021-mentors_files/796971f3d8624fe595662b22045b48af.jpeg"></div></div>  </div></div>
+<div class="u-size-24 u-size-60-md">  <div class="u-layout-row"><div class="u-size-30">  <div class="u-layout-col"><div class="u-size-30">  <div class="u-layout-row"><div class="u-container-style u-image u-layout-cell u-left-cell u-similar-fill u-size-60 u-image-3"><div class="u-container-layout"></div></div>  </div></div>
+<div class="u-size-30">  <div class="u-layout-row"><div class="u-container-style u-expand-resize u-layout-cell u-left-cell u-similar-fill u-size-60 u-layout-cell-5"><div class="u-container-layout"><img class="u-expanded-height u-image u-image-4" src="./DREU-2021-mentors_files/4d7613fed6f7bf19c583bb8b7a18aba0.jpeg"></div></div>  </div></div>  </div></div>
+<div class="u-size-30">  <div class="u-layout-col"><div class="u-container-style u-image u-layout-cell u-right-cell u-similar-fill u-size-60 u-image-5"><div class="u-container-layout"></div></div>  </div></div>  </div></div>  </div></div></div></div></section><section class="u-clearfix u-white u-section-7" id="sec-d0d1"><div class="u-clearfix u-sheet u-sheet-1"><div class="u-clearfix u-expanded-width u-gutter-20 u-layout-wrap u-layout-wrap-1"><div class="u-layout">  <div class="u-layout-row"><div class="u-container-style u-expand-resize u-layout-cell u-left-cell u-similar-fill u-size-18 u-size-20-md u-layout-cell-1"><div class="u-container-layout"><img class="u-expanded-width u-image u-image-1" src="./DREU-2021-mentors_files/2a8fb5f014fc9ca13ddd4e806c66f446.jpeg"></div></div>
+<div class="u-container-style u-image u-layout-cell u-similar-fill u-size-18 u-size-20-md u-image-2"><div class="u-container-layout"></div></div>
+<div class="u-container-style u-layout-cell u-right-cell u-similar-fill u-size-20-md u-size-24 u-layout-cell-3"><div class="u-container-layout u-valign-middle-sm u-valign-middle-xl u-valign-middle-xs u-container-layout-3"><h3 class="u-text u-text-1">03</h3><h2 class="u-text u-text-2">Vision &amp; Mision</h2><p class="u-text u-text-3">Here at Blend we do help our clients to recognize and develop their own identity, making it bold and memorable.
+<br>
+<br>The recipe to do that is by focusing and deeply understanding the single elements of a new project to gradually make them part of an inspiring seamless whole... add creativity to taste!</p></div></div>  </div></div></div></div></section><section class="u-clearfix u-palette-5-light-3 u-section-8" id="sec-fe93"><div class="u-clearfix u-sheet u-sheet-1"><div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1"><div class="u-layout">  <div class="u-layout-row"><div class="u-container-style u-layout-cell u-left-cell u-similar-fill u-size-20 u-layout-cell-1"><div class="u-container-layout u-valign-middle-sm u-valign-top-lg u-valign-top-md u-valign-top-xl u-valign-top-xs u-container-layout-1"><h3 class="u-text u-text-1">04</h3><h2 class="u-text u-text-2">Clients Say</h2></div></div>
+<div class="u-container-style u-layout-cell u-right-cell u-similar-fill u-size-40 u-layout-cell-2"><div class="u-container-layout"><p class="u-text u-text-3">“I couldn't be happier with choosing brandQ as my branding agency. From my first meeting with Mari to the final step of web design, the brandQ team was truly amazing! They showed such care, professionalism, honesty and creativity for everything related to my brand. I still love my logo today, as much as the first day I saw it. YOU GUYS ARE THE BEST! Thank you!!" </p>  
+<footer class="u-backlink u-clearfix u-footer u-grey-80 u-footer" id="sec-0f65">
+      <a href="http://www.linkedin.com/in/macksowers"><img src="https://raw.githubusercontent.com/mack-truck/mack-truck.github.io/master/index_files/LinkedIn.png">
+</a><a href="mailto:mack@berkeley.edu"><img src="https://raw.githubusercontent.com/mack-truck/mack-truck.github.io/master/index_files/Green-mail-to.png">
+</a><a href="https://github.com/mack-truck"><img src="https://raw.githubusercontent.com/mack-truck/mack-truck.github.io/master/index_files/Github.png">
+</a>
+</footer>
+     
+
+</body></html>
